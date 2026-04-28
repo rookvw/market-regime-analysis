@@ -1,0 +1,4 @@
+,auc,auc,auc,brier,brier,brier,logloss,logloss,logloss
+,mean,std,median,mean,std,median,mean,std,median
+model,,,,,,,,,
+baseline_rate,0.5,0.0,0.5,0.015734897034116103,0.023252647550352747,0.005082997445755249,0.10204654631839961,0.07276773846766804,0.07396429055190373

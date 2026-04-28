@@ -1,0 +1,8 @@
+{
+  "latest_date": "2025-11-28",
+  "n_folds": 17,
+  "kmeans_auc_mean": 0.36325245310290194,
+  "hmm_auc_mean": 0.4093494672355512,
+  "kmeans_brier_mean": 0.015500566945151353,
+  "hmm_brier_mean": 0.015873910935842447
+}

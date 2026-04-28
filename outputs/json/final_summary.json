@@ -1,0 +1,35 @@
+{
+  "walkforward_mean_metrics": {
+    "hmm_hard": {
+      "auc": 0.409349,
+      "brier": 0.015863,
+      "logloss": 0.097097
+    },
+    "hmm_soft": {
+      "auc": 0.386035,
+      "brier": 0.015806,
+      "logloss": 0.096819
+    },
+    "kmeans_hard": {
+      "auc": 0.363252,
+      "brier": 0.015481,
+      "logloss": 0.095221
+    }
+  },
+  "baseline_mean_metrics": {
+    "baseline_rate": {
+      "auc": 0.5,
+      "brier": 0.015735,
+      "logloss": 0.102047
+    }
+  },
+  "v3_recent_regime_status": {
+    "latest_oos_date": "2025-09-02",
+    "latest_kmeans_risk_rank": 1,
+    "latest_hmm_risk_rank": 1,
+    "recent_20_kmeans_mode": 1,
+    "recent_20_hmm_mode": 2,
+    "recent_60_kmeans_mode": 2,
+    "recent_60_hmm_mode": 2
+  }
+}
